@@ -8,7 +8,7 @@ import expectExport from 'expect';
 describe("GameButtons fireoff correctly to adjust scoreboard display on user interaction", () => {
 
 
-  test('renders correctly', () => {
+  test('renders correctly', () => { 
     //do snapshot here
     render(<GameButtons />);
   })
